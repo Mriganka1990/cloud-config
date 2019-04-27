@@ -1,0 +1,7 @@
+server:
+  port: 8082
+  context-path: /employee-service
+
+student:
+  email:
+   value: Mriganka.Koley@cognizant.com

@@ -1,0 +1,7 @@
+server:
+  port: 8081
+  context-path: /student-service
+
+student:
+  email:
+   value: mrigankakoleyjob@gmail.com
